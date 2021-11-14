@@ -91,17 +91,31 @@ nav #menu li a:hover {
 .thumbnail {
     width: 500px;
     height: 500px;
+    height: 500px;
+    width: 500px;
+    background: url('https://images.pexels.com/photos/10012067/pexels-photo-10012067.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500')
 }
 
 .caption {
-    position: relative;
-    overflow: hidden;
     background-color: #fff;
-    width: 500px;
+    width: 450px;
     height: 50px;
-    bottom: 0;    
+    opacity: 0.8;
 }
 
 
+.container {
+    height: 50px;
+    width: 500px;
+    background-color: #fff;
+    position: absolute;
+    margin-top: 450px;
+    padding-left: 20px;
+    opacity: 0.8;
+}
+
+.lorem p{
+    padding-top: -20px;
+}
 
 /*------------------ image section ends here ------------- */
