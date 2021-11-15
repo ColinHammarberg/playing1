@@ -83,17 +83,12 @@ nav #menu li a:hover {
 
 /*------------------ image section begins here ------------- */
 
-.image-section {
-    padding-top: 100px;
-    margin-left: 50px;
-}
+
 
 .thumbnail {
     width: 500px;
     height: 500px;
-    height: 500px;
-    width: 500px;
-    background: url('https://images.pexels.com/photos/10012067/pexels-photo-10012067.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500')
+    background: url('https://images.pexels.com/photos/10012067/pexels-photo-10012067.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
 }
 
 .caption {
@@ -110,12 +105,15 @@ nav #menu li a:hover {
     background-color: #fff;
     position: absolute;
     margin-top: 450px;
-    padding-left: 20px;
+    padding-left: 10px;
     opacity: 0.8;
 }
 
-.lorem p{
-    padding-top: -20px;
+hr {
+    background-color: #000;
+    height: 10px;
+    width: 1000px;
 }
+
 
 /*------------------ image section ends here ------------- */
