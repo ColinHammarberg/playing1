@@ -84,16 +84,18 @@ nav #menu li a:hover {
 /*------------------ image section begins here ------------- */
 
 .image-section {
-    padding-top: 100px;
+    padding-top: 150px;
     margin-left: 50px;
-    width: 1500px;
+    width: 1625px;
+    padding-left: 75px;
+   
 }
 
 .thumbnail {
-    width: 550px;
-    height: 550px;
+    width: 500px;
+    height: 500px;
     margin: 0;
-    background: url('https://images.pexels.com/photos/10012067/pexels-photo-10012067.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    background: url('https://images.pexels.com/photos/6952281/pexels-photo-6952281.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500') center center;
     padding-right: 20px;
 }
 
@@ -146,5 +148,19 @@ nav #menu li a:hover {
     padding-right: 40px;
     padding-bottom: 40px;
 }
+
+.hr1 {
+    padding-bottom: 50px;
+    padding-top: 100px;
+    
+}
+
+.hr1 hr {
+    height: 2px;
+    width: 1500px;
+    background-color: #000;
+    
+}
+
 
 
