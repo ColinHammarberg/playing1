@@ -31,8 +31,8 @@ nav #brand {
     display: block;
     margin-left: 82px;
     line-height: 80px;
-    font-weight: 300;
-    font-size: 25px;
+    font-weight: 700;
+    font-size: 35px;
     color: #000;
 }
 
@@ -83,12 +83,18 @@ nav #menu li a:hover {
 
 /*------------------ image section begins here ------------- */
 
-
+.image-section {
+    padding-top: 100px;
+    margin-left: 50px;
+    width: 1500px;
+}
 
 .thumbnail {
-    width: 500px;
-    height: 500px;
+    width: 550px;
+    height: 550px;
+    margin: 0;
     background: url('https://images.pexels.com/photos/10012067/pexels-photo-10012067.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    padding-right: 20px;
 }
 
 .caption {
@@ -105,15 +111,40 @@ nav #menu li a:hover {
     background-color: #fff;
     position: absolute;
     margin-top: 450px;
-    padding-left: 10px;
+    padding-left:px;
     opacity: 0.8;
 }
 
-hr {
+.lorem p{
+    padding-top: -20px;
+}
+
+.hr {
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+.hr hr {
+    height: 2px;
+    width: 1500px;
     background-color: #000;
-    height: 10px;
-    width: 1000px;
+
+  
+
+}
+
+/*------------------ image section ends here ------------- */
+
+
+.text-footer {
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+
+.text-footer-2 {
+    text-align: right;
+    padding-right: 40px;
+    padding-bottom: 40px;
 }
 
 
-/*------------------ image section ends here ------------- */
