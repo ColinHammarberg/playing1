@@ -33,13 +33,12 @@ nav #brand {
     line-height: 80px;
     font-weight: 700;
     font-size: 35px;
-    color: #000;
+    color: rgb(61, 61, 61);
 }
 
 nav #brand a {
-    color: #000;
+    color: rgb(61, 61, 61);
     transition: all 6s ease-out;
-    text-shadow: 0 0 50px #000;
     text-decoration: none;
 }
 
@@ -52,7 +51,7 @@ nav #menu {
     right: 80px;
     position: fixed;
     font-size: 20px;
-    color: #000;
+    color: rgb(61, 61, 61);
 }
 
 nav #menu li {
@@ -70,9 +69,8 @@ nav #menu li span {
 }
 
 nav #menu li a {
-    color: #000;
+    color: rgb(61, 61, 61);;
     text-decoration: none;
-    text-shadow: 0 0 50px #000;
 }
 
 nav #menu li a:hover {
@@ -129,7 +127,7 @@ nav #menu li a:hover {
 .hr hr {
     height: 2px;
     width: 1500px;
-    background-color: #000;
+    background-color: rgb(61, 61, 61);
 
   
 
@@ -141,24 +139,29 @@ nav #menu li a:hover {
 .text-footer {
     padding-left: 40px;
     padding-bottom: 40px;
+    color: rgb(61, 61, 61);
 }
+
+
 
 .text-footer-2 {
     text-align: right;
     padding-right: 40px;
     padding-bottom: 40px;
+    color: rgb(61, 61, 61);
 }
 
 .hr1 {
     padding-bottom: 50px;
     padding-top: 100px;
+    padding-right: 30px;
     
 }
 
 .hr1 hr {
     height: 2px;
     width: 1500px;
-    background-color: #000;
+    background-color: rgb(61, 61, 61);
     
 }
 
