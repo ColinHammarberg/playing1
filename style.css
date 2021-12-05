@@ -93,7 +93,7 @@ nav #menu li a:hover {
     width: 500px;
     height: 500px;
     margin: 0;
-    background: url('https://images.pexels.com/photos/112988/pexels-photo-112988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') center center;
+    background: url('https://images.pexels.com/photos/258447/pexels-photo-258447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') center center;
     padding-right: 20px;
 }
 
@@ -137,16 +137,7 @@ nav #menu li a:hover {
 
 
 .text-footer {
-    padding-left: 40px;
-    padding-bottom: 40px;
-    color: rgb(61, 61, 61);
-}
-
-
-
-.text-footer-2 {
-    text-align: right;
-    padding-right: 40px;
+    padding-left: 80px;
     padding-bottom: 40px;
     color: rgb(61, 61, 61);
 }
@@ -155,6 +146,7 @@ nav #menu li a:hover {
     padding-bottom: 50px;
     padding-top: 100px;
     padding-right: 30px;
+
     
 }
 
@@ -164,6 +156,13 @@ nav #menu li a:hover {
     background-color: rgb(61, 61, 61);
     
 }
+
+.allons {
+    float: right;
+    padding-right: 80px;
+}
+
+
 
 
 
